@@ -1,2 +1,4 @@
 # Machine_Learning
-customer segementation
+# customer segementation
+# Loan Prediction
+# Iris flower classification
